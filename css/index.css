@@ -1,0 +1,51 @@
+.pic{
+  height: 200px;
+  width: 422px;
+}
+.mmy-wechat{
+  display: block;
+  width: 45px;
+  height: 45px;
+
+  background-image: url(../img/wechat.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 150px;
+
+
+}
+
+.mmy-email{
+  display: block;
+  width: 45px;
+  height: 45px;
+
+  background-image: url(../img/email.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 150px;
+}
+.mmy-h2{
+  text-align: center;
+}
+#upsetSection{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mmy-bgc{
+  background-color:#F4E0E4;
+  width: 600px;
+  height: 400px;
+  margin: 0 auto;
+}
+#upsetSection .btn-group .mmy-btn{
+  display: block;
+  margin-top:20px;
+  margin-bottom: 20px;
+  margin-left: 250px;
+  float: none;
+}
+#upsetSection .btn-group .mmy-btn:hover{
+  background-color: #e2e2e2;
+}
