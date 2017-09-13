@@ -41,7 +41,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: #F990D8 !important; }
+  background-color: #ADD8E6 !important; }
 
 .bg-dark {
   color: white;
@@ -147,7 +147,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/taiwanbig.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -156,7 +156,7 @@ header.masthead {
   header.masthead .header-content {
     position: relative;
     width: 100%;
-    padding: 150px 15px 100px;
+    padding: 50px 15px 100px;
     text-align: center; }
     header.masthead .header-content .header-content-inner h1 {
       font-size: 30px;
@@ -254,6 +254,9 @@ header.masthead {
 
 .text-primary {
   color: #8140F0 !important; }
+
+
+
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
